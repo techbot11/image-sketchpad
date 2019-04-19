@@ -10,7 +10,7 @@ This module allow to draw on pictures and export the result. (Uses `canvas` & `f
 
 ## Installation
 
-`npm install --save ngx-image-drawing`
+`git clone https://github.com/techbot11/image-sketchpad.git`
 
 ## Usage
 
