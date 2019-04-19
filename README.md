@@ -1,6 +1,6 @@
 ﻿# image-sketchpad
 
-![Screenshot](github/screenshot.png)
+![Screenshot](github/Screenshot.png)
 
 > Ps. No animals were harmed in taking this picture :P
 
